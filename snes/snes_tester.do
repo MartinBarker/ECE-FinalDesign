@@ -1,0 +1,1 @@
+//simulates snes input
