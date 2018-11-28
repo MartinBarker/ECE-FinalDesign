@@ -8,3 +8,78 @@ z2
 !i10f 100
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
+vFinalProjectTopLevel
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1543449502
+!i10b 1
+!s100 M;h7e_D8IdJ257V=hgBOm3
+ITSEU];9z<H`N?5SaA^eX72
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 FinalProjectTopLevel_sv_unit
+S1
+Z3 dC:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder
+w1543449427
+8C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/FinalProjectTopLevel.sv
+FC:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/FinalProjectTopLevel.sv
+L0 2
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1543449502.000000
+!s107 C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/FinalProjectTopLevel.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/FinalProjectTopLevel.sv|
+!s101 -O0
+!i113 1
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@final@project@top@level
+vSPI_PS2KB
+R0
+R1
+!i10b 1
+!s100 B?^mFZ:KoU9DNoQKH;W0j3
+I:G5gb]?l`FA?EBE0g9bSg0
+R2
+!s105 SPI_PS2KB_sv_unit
+S1
+R3
+w1543444866
+8C:/Users/marti/Documents/School/FALL 2018/ECE 271/modelSim final proj folder/SPI_PS2KB.sv
+FC:/Users/marti/Documents/School/FALL 2018/ECE 271/modelSim final proj folder/SPI_PS2KB.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/marti/Documents/School/FALL 2018/ECE 271/modelSim final proj folder/SPI_PS2KB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/marti/Documents/School/FALL 2018/ECE 271/modelSim final proj folder/SPI_PS2KB.sv|
+!s101 -O0
+!i113 1
+R6
+n@s@p@i_@p@s2@k@b
+vSPI_SNES
+R0
+!s110 1543449503
+!i10b 1
+!s100 4=[cnRD>dKd4gnYlDi1ER0
+IV3z]CNil1H?fo2U@cLYHo0
+R2
+!s105 SPI_SNES_sv_unit
+S1
+R3
+w1543449412
+8C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_SNES.sv
+FC:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_SNES.sv
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1543449503.000000
+!s107 C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_SNES.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_SNES.sv|
+!s101 -O0
+!i113 1
+R6
+n@s@p@i_@s@n@e@s
