@@ -1,0 +1,16 @@
+Wed Nov 28 16:02:10 PST 2018
+Trace back: couldn't open "C:/Users/marti/Documents/School/FALL 2018/ECE 271/modelSim final proj folder/SPI_PS2KB.sv": no such file or directory
+    while executing
+"open $fileName w"
+    (object "::.main_pane.source.interior.cs.body.srcobj" method "::vsimwidgets::Srcobj::SaveFile" body line 17)
+    invoked from within
+"SaveFile"
+    (object "::.main_pane.source.interior.cs.body.srcobj" method "::vsimwidgets::Srcobj::CheckModification" body line 40)
+    invoked from within
+"::.main_pane.source.interior.cs.body.srcobj CheckModification"
+    (in namespace inscope "::vsimwidgets::Srcobj" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Srcobj {::.main_pane.source.interior.cs.body.srcobj CheckModification}"
+    (command bound to event)
+  <2:C:/Modeltech_pe_edu_10.4a/win32pe_edu/tk8.5/bgerror.tcl:92: ::tkerror {couldn't open "C:/Users/marti/Documents/School/FALL 2018/ECE 271/modelSim final proj folder/SPI_PS2KB.sv": no such file or directory}
+  <1:eval:1: ::tk::dialog::error::bgerror {couldn't open "C:/Users/marti/Documents/School/FALL 2018/ECE 271/modelSim final proj folder/SPI_PS2KB.sv": no such file or directory}
