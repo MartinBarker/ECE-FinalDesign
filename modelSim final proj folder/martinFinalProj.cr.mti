@@ -1,4 +1,46 @@
-{C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/labVGAexamples/xyCounter.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/labVGAexamples/xyCounter.sv}
+{C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/multiplexer.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/multiplexer.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module multiplexer
+
+Top level modules:
+	multiplexer
+
+} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/FinalProjectTopLevel.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/FinalProjectTopLevel.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FinalProjectTopLevel
+
+Top level modules:
+	FinalProjectTopLevel
+
+} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_SNES.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_SNES.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SPI_SNES
+
+Top level modules:
+	SPI_SNES
+
+} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_PS2KB.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_PS2KB.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SPI_PS2KB
+
+Top level modules:
+	SPI_PS2KB
+
+} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/labVGAexamples/Lab6ClockScaleExamples.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/labVGAexamples/Lab6ClockScaleExamples.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Lab6ClockScaleExamples
+
+Top level modules:
+	Lab6ClockScaleExamples
+
+} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/XYcounter.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/XYcounter.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module XYcounter
+
+Top level modules:
+	XYcounter
+
+} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/labVGAexamples/xyCounter.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/labVGAexamples/xyCounter.sv}
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module xyCounter
 
@@ -12,26 +54,12 @@ Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 
 Top level modules:
 	topLevel
 
-} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_SNES.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_SNES.sv}
+} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/RGBcontrol.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/RGBcontrol.sv}
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module SPI_SNES
+-- Compiling module RGBcontrol
 
 Top level modules:
-	SPI_SNES
-
-} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/FinalProjectTopLevel.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/FinalProjectTopLevel.sv}
-Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module FinalProjectTopLevel
-
-Top level modules:
-	FinalProjectTopLevel
-
-} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/labVGAexamples/Lab6ClockScaleExamples.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/labVGAexamples/Lab6ClockScaleExamples.sv}
-Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module Lab6ClockScaleExamples
-
-Top level modules:
-	Lab6ClockScaleExamples
+	RGBcontrol
 
 } {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/labVGAexamples/Drawing.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/labVGAexamples/Drawing.sv}
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
@@ -40,11 +68,18 @@ Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 
 Top level modules:
 	Drawing
 
-} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_PS2KB.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/SPI_PS2KB.sv}
+} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/ObjectLocation.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/ObjectLocation.sv}
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module SPI_PS2KB
+-- Compiling module ObjectLocation
 
 Top level modules:
-	SPI_PS2KB
+	ObjectLocation
+
+} {} {}} {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/clkDivider.sv} {1 {vlog -work work -sv -stats=none {C:/Users/marti/Documents/School/FALL 2018/ECE 271/ECE-FinalDesign/modelSim final proj folder/clkDivider.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module clkDivider
+
+Top level modules:
+	clkDivider
 
 } {} {}}
