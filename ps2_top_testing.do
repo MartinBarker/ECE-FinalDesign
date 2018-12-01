@@ -5,6 +5,8 @@ add wave *
 #clk every 100 ns
 force -deposit /ps2_top/clock 1 0, 0 {50 ns} -repeat 100
 
+force /ps2_top/data 1 @ 1300
+
 #set data_in to zero at the start to 'started' variable begins counting
 #force /ps2_top/clock 0 @ 100
 force /ps2_top/count 0 @ 0
